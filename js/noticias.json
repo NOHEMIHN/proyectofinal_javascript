@@ -1,0 +1,31 @@
+{
+    "noticias": [
+      {
+        "titulo": "Lanzamiento del Nuevo Producto 2024",
+        "fecha": "2024-09-15",
+        "descripcion": "Nuestra empresa lanza un nuevo producto revolucionario que cambiará el mercado. Visítanos para obtener más detalles y aprovechar nuestras ofertas exclusivas.",
+        "imagen": "images/noticia1.jpg"
+        
+      },
+      {
+        "titulo": "Expansión Internacional en América Latina",
+        "fecha": "2024-08-28",
+        "descripcion": "Estamos emocionados de anunciar nuestra expansión en América Latina. Con nuevas oficinas en México, Chile y Argentina, ofreceremos un servicio aún más cercano y eficiente.",
+        "imagen": "images/noticia2.jpg"
+    
+      },
+      {
+        "titulo": "Tecnología Verde: Nuestro Compromiso Ambiental",
+        "fecha": "2024-07-10",
+        "descripcion": "Nos comprometemos con el medio ambiente. Hemos implementado prácticas de tecnología verde para reducir nuestra huella de carbono y promover un futuro sostenible.",
+        "imagen": "images/noticia3.jpg"
+      },
+      {
+        "titulo": "Conferencia Anual de Innovación 2024",
+        "fecha": "2024-06-05",
+        "descripcion": "Este año, nuestra conferencia anual de innovación se centrará en las tendencias tecnológicas emergentes. Únete a expertos de la industria y descubre las nuevas oportunidades.",
+        "imagen": "images/noticia4.jpg"
+      }
+    ]
+  }
+  
